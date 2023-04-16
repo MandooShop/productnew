@@ -9,26 +9,43 @@
   },
   {
     "id": 2,
-    "HinhSanPham": "https://salt.tikicdn.com/cache/w1200/ts/product/93/f2/e6/730bd2d3a52f6254801e5fa71d0e8122.jpg",
-    "SaoSanPham": "4.9",
-    "TenSanPham": "Tâm lý học biểu cảm",
-    "GiaSanPham": "80.000 đ",
+    "HinhSanPham": "https://salt.tikicdn.com/ts/product/50/bd/eb/51937df1d205a27deb93bde1dda06f05.jpg",
+    "SaoSanPham": "4.2",
+    "TenSanPham": "Tâm Lý Học Hành Vi",
+    "GiaSanPham": "88.000 đ",
     "HinhSao": "ngoisao.png"
   },
   {
     "id": 3,
-    "HinhSanPham": "https://salt.tikicdn.com/cache/w1200/ts/product/93/f2/e6/730bd2d3a52f6254801e5fa71d0e8122.jpg",
-    "SaoSanPham": "4.9",
-    "TenSanPham": "Tâm lý học biểu cảm",
-    "GiaSanPham": "80.000 đ",
+    "HinhSanPham": "https://salt.tikicdn.com/cache/w1200/ts/product/90/49/97/ec88ab408c1997378344486c94dbac40.jpg",
+    "SaoSanPham": "3.9",
+    "TenSanPham": "Thao Túng Tâm Lý",
+    "GiaSanPham": "66.000 đ",
     "HinhSao": "ngoisao.png"
   },
   {
     "id": 4,
-    "HinhSanPham": "https://salt.tikicdn.com/cache/w1200/ts/product/93/f2/e6/730bd2d3a52f6254801e5fa71d0e8122.jpg",
-    "SaoSanPham": "4.9",
-    "TenSanPham": "Tâm lý học biểu cảm",
-    "GiaSanPham": "80.000 đ",
+    "HinhSanPham": "https://salt.tikicdn.com/cache/w1200/ts/product/98/7f/84/f1a1242d4b40788798179e94f16fe0bd.jpg",
+    "SaoSanPham": "4.7",
+    "TenSanPham": "Tâm Lý Học Thành Công",
+    "GiaSanPham": "148.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 5,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/w1200/ts/product/87/fc/76/86d191c0aaaccf905bdd09c9e7c7ee5c.PNG",
+    "SaoSanPham": "4.7",
+    "TenSanPham": "Tâm Lý Học Ứng Dụng",
+    "GiaSanPham": "88.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 6,
+    "HinhSanPham": "https://salt.tikicdn.com/ts/product/05/db/24/8b4b70a25aa99e02b4ade975d4dec41c.jpg",
+    "SaoSanPham": "4.7",
+    "TenSanPham": "Tâm Lý Học Hẹn Hò",
+    "GiaSanPham": "148.000 đ",
     "HinhSao": "ngoisao.png"
   }
+  
 ]
