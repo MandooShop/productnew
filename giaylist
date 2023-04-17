@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "HinhSanPham": "https://salt.tikicdn.com/ts/tmp/4f/e4/f5/d319c41dc5b2b6a177f03c280383fea7.jpg",
+    "SaoSanPham": "4.5",
+    "TenSanPham": "Giày Thể Thao Nữ Màu Trắng Bằng Da Không Bong Tróc Cao 4cm Đế Êm Nhẹ S352",
+    "GiaSanPham": "297.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 2,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/750x750/ts/product/d9/7f/72/e73992735a0cf0c6d1895e589aaeed20.png.webp",
+    "SaoSanPham": "4.5",
+    "TenSanPham": "Giày Thể Thao Nam Màu Đen, Sneaker Nam Màu Đen, Đế Êm, Nhẹ Thoáng Khí S355",
+    "GiaSanPham": "307.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 3,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/750x750/ts/product/55/1c/83/16eae45e855d98de5f6170164ca4e8b3.jpg.webp",
+    "SaoSanPham": "3.9",
+    "TenSanPham": "Giày Thể Thao Thời Trang Nữ - A1O4",
+    "GiaSanPham": "66.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 4,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/750x750/ts/product/26/16/d3/be50976ce92b41e7f1d499931efb75d4.jpg.webp",
+    "SaoSanPham": "4.7",
+    "TenSanPham": "Giày da nam thể thao Z03 Đen - Giày da bò thật cổ thấp",
+    "GiaSanPham": "385.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 5,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/750x750/ts/product/c1/42/ed/6951971ba4a6bedadd93ba9186d4417b.jpg.webp",
+    "SaoSanPham": "4.5",
+    "TenSanPham": "Giày thể thao cá tính siêu đẹp cho nữ - MH118",
+    "GiaSanPham": "150.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 6,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/750x750/ts/product/38/95/b4/047d62619a3ec2926468523768c102c8.jpg.webp",
+    "SaoSanPham": "3.5",
+    "TenSanPham": "Giày Thể Thao Nữ VIA",
+    "GiaSanPham": "160.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 7,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/750x750/ts/product/e5/ea/84/935784e603d12844b593395ec20cc967.jpg.webp",
+    "SaoSanPham": "3.5",
+    "TenSanPham": "Giày Thể Thao Nữ Độn Đế",
+    "GiaSanPham": "160.000 đ",
+    "HinhSao": "ngoisao.png"
+  },
+  {
+    "id": 8,
+    "HinhSanPham": "https://salt.tikicdn.com/cache/750x750/ts/product/fa/1e/12/ff08ae8db1a92e001c9d0faed7cb3bda.jpg.webp",
+    "SaoSanPham": "3.9",
+    "TenSanPham": "Giày Thể Thao Nữ Sneaker TIZINIS B01",
+    "GiaSanPham": "150.000 đ",
+    "HinhSao": "ngoisao.png"
+  }
+]
