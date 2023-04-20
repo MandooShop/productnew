@@ -1,44 +1,21 @@
-[
-  {
+[  {
     "id": 1,
-    "Hinh": "https://dulichkhampha24.com/wp-content/uploads/2021/03/hoi-an-thanh-pho-lang-man-nhat-the-gioi.jpg",
-    "Ten": "Phố Cổ Hội An",
-    "HinhDiaChi": "hinhdiachi.png",
-    "TenTinh": "Quảng Nam"
+    "title": "Nguyễn Thúc Thùy iên",
+    "image": "https://images2.thanhnien.vn/Uploaded/thanhlongn/2022_09_25/thuy-tien-3158.jpeg"
   },
   {
     "id": 2,
-    "Hinh": "https://golden-lotus-hotel.s3.ap-southeast-1.amazonaws.com/uploads/2021/04/013d407166ec4fa56eb1e1f8cbe183b9/images1089892_1.jpg",
-    "Ten": "Vịnh Hạ Long",
-    "HinhDiaChi": "hinhdiachi.png",
-    "TenTinh": "Quảng Ninh"
+    "title": "Nguyễn Bảo Ngọc",
+    "image": "https://dvt.vn/uploads/images/2022/10/15/bao-ngoc-2-1665843873.png"
   },
   {
     "id": 3,
-    "Hinh": "https://baoquocte.vn/stores/news_dataimages/dieulinh/102020/23/18/4300_Cao_nguyen_Ya_YYng_VYn_Ha_Giang..jpg?rt=20201028140634",
-    "Ten": "Cao Nguyên Đá Đồng Văn ",
-    "HinhDiaChi": "hinhdiachi.png",
-    "TenTinh": "Hà Giang"
+    "title": "Phương Nhi",
+    "image": "https://images2.thanhnien.vn/Uploaded/thanhlongn/2022_08_16/phuong-nhi-9357.jpeg"
   },
-  {
+   {
     "id": 4,
-    "Hinh": "https://tourdanangcity.vn/wp-content/uploads/2021/04/co-do-hue-9.jpg",
-    "Ten": "Cố Đô Huế",
-    "HinhDiaChi": "hinhdiachi.png",
-    "TenTinh": "Huế"
-  },
-  {
-    "id": 5,
-    "Hinh": "https://statics.vinpearl.com/lang-chai-cua-van-1_1629259357.png",
-    "Ten": "Làng Chài Cửa Vạn",
-    "HinhDiaChi": "hinhdiachi.png",
-    "TenTinh": "Hạ Long"
-  },
-  {
-    "id": 6,
-    "Hinh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/1-10.jpg",
-    "Ten": "Nhà Thờ Đức Bà",
-    "HinhDiaChi": "hinhdiachi.png",
-    "TenTinh": "TP. Hồ Chí Minh"
+    "title": "Thiên Ân",
+    "image": "https://vtv1.mediacdn.vn/thumb_w/650/2022/11/9/hoa-hau-doan-thien-an-2-1667998661579631551134-crop-1667998743800571513348.jpg"
   }
 ]
