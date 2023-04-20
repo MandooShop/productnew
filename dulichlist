@@ -19,5 +19,26 @@
     "Ten": "Cao Nguyên Đá Đồng Văn ",
     "HinhDiaChi": "hinhdiachi.png",
     "TenTinh": "Hà Giang"
+  },
+  {
+    "id": 4,
+    "Hinh": "https://tourdanangcity.vn/wp-content/uploads/2021/04/co-do-hue-9.jpg",
+    "Ten": "Cố Đô Huế",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Huế"
+  },
+  {
+    "id": 5,
+    "Hinh": "https://statics.vinpearl.com/lang-chai-cua-van-1_1629259357.png",
+    "Ten": "Làng Chài Cửa Vạn",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Hạ Long"
+  },
+  {
+    "id": 6,
+    "Hinh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/1-10.jpg",
+    "Ten": "Nhà Thờ Đức Bà",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "TP. Hồ Chí Minh"
   }
 ]
