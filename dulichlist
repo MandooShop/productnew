@@ -40,5 +40,26 @@
     "Ten": "Nhà Thờ Đức Bà",
     "HinhDiaChi": "hinhdiachi.png",
     "TenTinh": "TP. Hồ Chí Minh"
+  },
+  {
+    "id": 7,
+    "Hinh": "https://i-dulich.vnecdn.net/2022/04/12/Binh-Ba-VnExpress-Rua-Hay-Xin-2323-1649736224.jpg",
+    "Ten": "Đảo Bình Ba",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Khánh Hòa"
+  },
+  {
+    "id": 8,
+    "Hinh": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20190923_Independence_Palace-10.jpg/1200px-20190923_Independence_Palace-10.jpg",
+    "Ten": "Dinh Độc Lập",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "TP. Hồ Chí Minh"
+  },
+  {
+    "id": 9,
+    "Hinh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/09/cho-noi-cai-be-tien-giang-vntrip8-1.jpg",
+    "Ten": "Chợ Nổi Cái Bè",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Tiền Giang"
   }
 ]
